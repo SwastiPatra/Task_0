@@ -1,5 +1,6 @@
-str=input("enter a string\n")
-index = 0
-for index in range(len(str)):
-    if index % 2 == 0:
-        print(str[index],end='')
+sample = {'physics' : 88,
+          'maths' : 75,
+          'chemistry' : 72,
+          'Basic electrical' : 69}
+print(min(sample,
+key = sample.get))

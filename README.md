@@ -1,0 +1,2 @@
+#Spectrum_club_Task_0
+PYTHON
